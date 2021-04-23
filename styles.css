@@ -1,63 +1,6 @@
 
-header {
-width: 100%;
-background-color:white;
-padding: 400px;
-margin: block 0; 
-margin-top: 40px
-margin-left: none;
-}
-h1 {
-float: left;
-background-color: none;
-margin-left:none
-margin-top: none;
-background-color: white
-}
-nav {
-float:inline-end;
-text-align: end;
-align-items: flex-end;
-margin-left: 100px;
-}
-    body
-{
-background-image: url("./trends\ &\ styles.jpg");
-background-repeat: no-repeat;
-background-size:cover;
-background-color: white;
-margin-top: 70%;
-}
-ul {
-  list-style-type:none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  border: none;
-  background-color: #FFFFFF;
-}
 
-li {
-  float: left;
-}
-
-li a {
-  display:block;
-  color: #666;
-  text-align: right;
-  margin-right: none;
-  padding:16px;
-  text-decoration: none;
-}
-
-li a:hover:not(.active) {
-  background-color: #ddd;
-}
-
-li a.active {
-  color: white;
-  background-color:tomato;
-}
+    
 body
        {
            background-image: url("./trends\ &\ styles.jpg");
